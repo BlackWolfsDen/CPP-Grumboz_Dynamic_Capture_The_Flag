@@ -1,20 +1,20 @@
-// © Grumboz World Capture the Flag System © 
-// © By slp13at420 of EmuDevs.com © 
-// © an EmuDevs NomSoft - Only - release © 
-// © http://emudevs.com/showthread.php/5993-CPP-Grumbo-z-Capture-the-Flag-System?p=39857#post39857
+// Â© Grumboz World Capture the Flag System Â© 
+// Â© By slp13at420 of EmuDevs.com Â© 
+// Â© an EmuDevs NomSoft - Only - release Â© 
+// Â© http://emudevs.com/showthread.php/5993-CPP-Grumbo-z-Capture-the-Flag-System?p=39857#post39857
 
-// © Language:CPP © 
-// © Platform:TrinityCore © 
-// © Start:10-05-2016 © 
-// © Finish:10-07-2016 © 
-// © Release:10-07-2016 © 
-// © Primary Programmer:slp13at420 © 
-// © Secondary Programmers:none © 
+// Â© Language:CPP Â© 
+// Â© Platform:TrinityCore Â© 
+// Â© Start:11-29-2019 Â© 
+// Â© Finish:11-30-2019 Â© 
+// Â© Release:11-30-2019 Â© 
+// Â© Primary Programmer:slp13at420 Â© 
+// Â© Secondary Programmers:none Â© 
 
-// © My latest version of my beloved blood shed system ;) © 
-// ©  Do NOT remove any credits © 
-// ©  Don't share/rerelease on any other site other than EmuDevs.com © 
-// © Dont attempt to claim as your own work ... © 
+// Â© My latest version of my beloved blood shed system ;) Â© 
+// Â©  Do NOT remove any credits Â© 
+// Â©  Don't share/rerelease on any other site other than EmuDevs.com Â© 
+// Â© Dont attempt to claim as your own work ... Â© 
 
 #include "chat.h"
 #include "Config.h"
