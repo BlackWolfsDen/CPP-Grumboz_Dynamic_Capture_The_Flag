@@ -1,0 +1,44 @@
+###################################################################################################
+# Grumbo'z Capture the Flag
+# by slp13at420 of EmuDevs.com
+#
+# Players must seek out the World Flag and tag it before they 
+# die or an apposing team member tags it.
+
+# This setting is where you set the id for the default World Flag.
+#	CTF.DEFAULT_WORLD_FLAG_ID
+#		Description: set the id of the default World Flag. 
+#		Default: 600002 // custom item id . sql included with the System files.
+#			you must also set the ScriptName in the gameobject_template.
+
+CTF.DEFAULT_WORLD_FLAG_ID = 600000
+
+# This setting is where you set the scale/size for the World Flags.
+#	CTF.DEFAULT_WORLD_FLAG_SCALE
+#		Description: set the scale size of the World Flags. 
+#		Default: 30.00 // medium size. the larger the better for players to find.
+
+CTF.DEFAULT_WORLD_FLAG_SCALE = 30.00
+
+# This setting is where you can allow the system to announce the flag location to the
+# current holding team.
+#	CTF.HINT_SYSTEM
+#		Description: set the hint system. will announce area name of where the flag
+#				 has spawned.
+#		Default: 0 // 0 = no hint // 1 = announce to whole world.
+
+CTF.HINT_SYSTEM = 1
+
+# This setting is where you can allow GM with minimum rank of x to use the spawn
+# commands
+#
+#	CTF.GM_RANK
+#		Description: required minimum GM rank to access gm commands
+#
+#		Default: 3
+
+CTF.GM_RANK = 3
+
+#
+CTF.TEST = 0
+###################################################################################################
