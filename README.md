@@ -10,3 +10,5 @@ includes hint announcement system.
 just simply a flag will spawn and players must find it.
 
 just use the `.ctf add` command to add a new flag to the world.
+
+worldserver.conf settings included.
